@@ -1,0 +1,5 @@
+server:
+  port: 9001
+
+
+  #启动后访问  http://localhost:9001/hystrix  页面监控地址
