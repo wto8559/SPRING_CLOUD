@@ -1,0 +1,31 @@
+server:
+  port: 3344
+spring:
+  application:
+    name: cloud-config-center
+  cloud:
+    config:
+      label: master
+      server:
+        git:
+          uri: https://github.com/wto8559/springcloud-config.git
+          search-paths:
+            - springcoud-config
+          username: wto8559@163.com
+          password: ailutuo123
+
+#  rabbitmq:
+#    host: 192.168.113.6
+#    port: 5672
+#    username: guest
+#    password: guest
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:7001/eureka
+#management:
+#  endpoints:
+#    web:
+#      exposure:
+#        include: "bus-refresh"

@@ -1,8 +1,6 @@
-D:\cloud_space\cloud2020\cloud-provider-payment8001\src\main\java\com\springcloud\entites\CommonResult.java
-D:\cloud_space\cloud2020\cloud-provider-payment8001\src\main\java\com\springcloud\dao\PaymentDao.java
-D:\cloud_space\cloud2020\cloud-provider-payment8001\src\main\java\com\springcloud\service\impl\PaymentServiceImpl.java
-D:\cloud_space\cloud2020\cloud-provider-payment8001\src\main\java\com\springcloud\service\PaymentService.java
-D:\cloud_space\cloud2020\cloud-provider-payment8001\src\main\java\com\springcloud\test\StringTableTest.java
-D:\cloud_space\cloud2020\cloud-provider-payment8001\src\main\java\com\springcloud\controller\PaymentController.java
-D:\cloud_space\cloud2020\cloud-provider-payment8001\src\main\java\com\springcloud\entites\Payment.java
-D:\cloud_space\cloud2020\cloud-provider-payment8001\src\main\java\com\springcloud\PaymentMain8001.java
+D:\BASE_CLOUD_SPACE\SPRING_CLOUD\cloud-provider-payment8001\src\main\java\com\springcloud\dao\PaymentDao.java
+D:\BASE_CLOUD_SPACE\SPRING_CLOUD\cloud-provider-payment8001\src\main\java\com\springcloud\PaymentMain8001.java
+D:\BASE_CLOUD_SPACE\SPRING_CLOUD\cloud-provider-payment8001\src\main\java\com\springcloud\service\impl\PaymentServiceImpl.java
+D:\BASE_CLOUD_SPACE\SPRING_CLOUD\cloud-provider-payment8001\src\main\java\com\springcloud\controller\PaymentController.java
+D:\BASE_CLOUD_SPACE\SPRING_CLOUD\cloud-provider-payment8001\src\main\java\com\springcloud\service\PaymentService.java
+D:\BASE_CLOUD_SPACE\SPRING_CLOUD\cloud-provider-payment8001\src\main\java\com\springcloud\test\StringTableTest.java
