@@ -2,12 +2,10 @@ package com.springcloud;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-import org.springframework.cloud.config.server.EnableConfigServer;
 
 @SpringBootApplication
-@EnableConfigServer
-public class ConfigClientMain3355 {
+public class StreamMQMain8801 {
     public static void main(String[] args) {
-        SpringApplication.run(ConfigClientMain3355.class, args);
+        SpringApplication.run(StreamMQMain8801.class, args);
     }
 }
